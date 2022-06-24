@@ -1,0 +1,5 @@
+selenium
+chromedriver_autoinstaller
+pandas
+geopy
+numpy
